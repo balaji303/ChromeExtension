@@ -1,11 +1,11 @@
 # ChromeExtension
 Download my Google chrome extension for my website.
 
-##Follow the Steps below
+## Follow the Steps below
 1.Download and unzip this repository by clicking the "Clone or Download" button
 
-2.COPY AND PASTE THIS INTO A NEW TAB
-chrome://extensions
+2.Copy and paste this into a New Tab
+     chrome://extensions
 
 3. Toggle the Developer Mode setting to On in the top right corner
 
