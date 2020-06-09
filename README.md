@@ -1,7 +1,7 @@
 # ChromeExtension
 Download my Google chrome extension for my website.
 
-##Follow the Steps below
+# #Follow the Steps below
 1.Download and unzip this repository by clicking the "Clone or Download" button
 
 2.COPY AND PASTE THIS INTO A NEW TAB
