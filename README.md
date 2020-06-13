@@ -6,7 +6,7 @@ Download my Google chrome extension for my website.
 
 2.Copy and paste this into a New Tab
     
-    `chrome://extensions`  
+    chrome://extensions  
 
 3. Toggle the Developer Mode setting to On in the top right corner
 
