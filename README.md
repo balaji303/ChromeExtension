@@ -10,8 +10,10 @@ Download my Google chrome extension for my website.
 
 3. Toggle the Developer Mode setting to On in the top right corner
 
-4. Drag and drop the Chrome Extension to the Extensions page to install it
+4. Drag and drop the Chrome Extension(BalajiWebsite.crx) to the Extensions page to install it
 
 5. Click on Add File if a pop-up occurs.
+
+6. Click on the extension to open the website.
 
 Thanks For Downloading
