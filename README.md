@@ -1,4 +1,4 @@
-#My ChromeExtension
+# My ChromeExtension
 Download my Google chrome extension for my website.
 
 ## Follow the Steps below
