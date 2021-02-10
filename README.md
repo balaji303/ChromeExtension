@@ -16,4 +16,4 @@ Download my Google chrome extension for my website.
 
 6. Click on the extension to open the website.
 
-Thanks For Downloading
+Thanks For Downloading...
