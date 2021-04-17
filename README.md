@@ -1,5 +1,5 @@
 # My ChromeExtension
-Download Balaji's Google chrome extension for my website.
+Download My Balaji's Google chrome extension for my website.
 
 ## Follow the Steps given below
 1.Download and unzip this repository by clicking the "Clone" button followed by "Download Zip" button here in github
